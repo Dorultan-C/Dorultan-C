@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cristi
 - 👀 I’m interested in improving my coding skills ...
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on future projects and to learn / improve my team work ethics ...
+- 💞️ I’m looking to collaborate on future projects and gain new skills 
 - 📫 How to reach me cristian@dorultan.dev or https://dorultan.dev
 
 <!---
