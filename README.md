@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristi
-- 👀 Driven to innovate and build the next generation of web/mobile/AI solutions.
+- 👀 Driven to improve livestyle by building web/mobile applications.
 - 🌱 Currently building a mobile application "Plan Eats", a mobile app that organise your mealplans and much more..
 - 💞️ Let's build something cool together! Open to new collaborations. 
 - 📫  cristian@dorultan.dev or https://dorultan.dev
