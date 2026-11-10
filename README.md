@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristi
 - 👀 Driven to improve livestyle by building web/mobile applications.
-- 🌱 Creator of **Riov**, a mobile app that organizes your meal plans and much more! [Visit the Website](https://www.riov.app/) | [Download on Android](https://play.google.com/store/apps/details?id=com.riov.app)
+- 🌱 Creator of **Riov**, a mobile app that organises your meal plans and much more! [Visit the Website](https://www.riov.app/) | [Download on your mobile](https://www.riov.app/download)
 - 💞️ Let's build something cool together! Open to new collaborations. 
 - 📫  cristian@dorultan.dev or https://dorultan.dev
 
